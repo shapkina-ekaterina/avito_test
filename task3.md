@@ -1,55 +1,55 @@
-Номер набора данных Логин Пароль Ожидаемый результат
+Number Login Password Result(OK/ERROR)
 
-1 89997776655 Aa123456+ Успешно
+1 89997776655 Aa123456+ OK
 
-2 89997776655 aaaaaaaa Успешно
+2 89997776655 aaaaaaaa OK
 
-3 89997776655 AAAAAAAA Успешно
+3 89997776655 AAAAAAAA OK
 
-4 89997776655 11111111 Успешно
+4 89997776655 11111111 OK
 
-5 89997776655 1111111111111111 Успешно
+5 89997776655 1111111111111111 OK
 
-6 89997776655 aaaaaaaaaaaaaaaa Успешно
+6 89997776655 aaaaaaaaaaaaaaaa OK
 
-7 89997776655 AAAAAAAAAAAAAAAA Успешно
+7 89997776655 AAAAAAAAAAAAAAAA OK
 
-8 89997776655 ++++++++ Успешно
+8 89997776655 ++++++++ OK
 
-9 89997776655 ++++++++++++++++ Успешно
+9 89997776655 ++++++++++++++++ OK
 
-10 pochta@mail.ru Aa123456+ Успешно
+10 pochta@mail.ru Aa123456+ OK
 
-11 pochta@mail.ru aaaaaaaa Успешно
+11 pochta@mail.ru aaaaaaaa OK
 
-12 pochta@mail.ru AAAAAAAA Успешно
+12 pochta@mail.ru AAAAAAAA OK
 
-13 pochta@mail.ru 11111111 Успешно
+13 pochta@mail.ru 11111111 OK
 
-14 pochta@mail.ru 1111111111111111 Успешно
+14 pochta@mail.ru 1111111111111111 OK
 
-15 pochta@mail.ru aaaaaaaaaaaaaaaa Успешно
+15 pochta@mail.ru aaaaaaaaaaaaaaaa OK
 
-16 pochta@mail.ru AAAAAAAAAAAAAAAA Успешно
+16 pochta@mail.ru AAAAAAAAAAAAAAAA OK
 
-17 pochta@mail.ru ++++++++ Успешно
+17 pochta@mail.ru ++++++++ OK
 
-18 pochta@mail.ru ++++++++++++++++ Успешно
+18 pochta@mail.ru ++++++++++++++++ OK
 
-19 899976655 Aa123456+ Ошибка
+19 899976655 Aa123456+ ERROR
 
-20 899988877665 Aa123456+ Ошибка
+20 899988877665 Aa123456+ ERROR
 
-21 8999a8887766 Aa123456+ Ошибка
+21 8999a8887766 Aa123456+ ERROR
 
-22 pochtamail.ru Aa123456+ Ошибка
+22 pochtamail.ru Aa123456+ ERROR
 
-23 pochta Aa123456+ Ошибка
+23 pochta Aa123456+ ERROR
 
-24 89997776655 Фф123456+ Ошибка
+24 89997776655 Фф123456+ ERROR
 
-25 89997776655 Aa1234 Ошибка
+25 89997776655 Aa1234 ERROR
 
-26 89997776655 12345678910111213 Ошибка
+26 89997776655 12345678910111213 ERROR
 
 
